@@ -68,10 +68,10 @@
 ### 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://t.me/FallinTanishq">
+  <a href="https://t.me/TuninTanishq">
     <img src="https://img.shields.io/badge/Telegram-Profile-0d1117?style=for-the-badge&logo=telegram&logoColor=58A6FF"/>
   </a>
-  <a href="https://t.me/Infinite_Bots">
+  <a href="https://t.me/ZeroToCoding">
     <img src="https://img.shields.io/badge/Telegram-Channel-0d1117?style=for-the-badge&logo=telegram&logoColor=58A6FF"/>
   </a>
 </p>

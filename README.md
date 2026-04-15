@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/7d5S1Lxt/trafalgar-law-3840x2160-18362.jpg" width="100%" />
 </p>
 
-<h1 align="center">Hey, I'm Tanishq 👋</h1>
+<h1 align="center">Hey, I'm Tanyx 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=58A6FF&center=true&vCenter=true&width=600&lines=Telegram+Bot+Developer;Automation+Enthusiast;Python+Builder;Late+Night+Coder" />
@@ -12,10 +12,10 @@
 
 ### 🧠 About Me
 
-- 🤖 Building Telegram bots that actually help  
-- 🐍 Python is my main language  
+- 🤖 Building Original Telegram Bots 
+- 🐍 Python is currently my main language  
 - ⚙️ I automate anything repetitive  
-- 🌙 Peak productivity after midnight  
+- 🌙 Currently Learning Java and C++ 
 
 ---
 
@@ -49,7 +49,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Snake (Dead)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/FallinTanishq/FallinTanishq/output/github-contribution-grid-snake.svg" />

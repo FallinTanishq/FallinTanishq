@@ -109,16 +109,11 @@ class Tanyx:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=FallinTanishq&show_icons=true&count_private=true&hide_border=true&title_color=00f5ff&icon_color=bd00ff&text_color=c9d1d9&bg_color=0d1117" alt="stats"/>
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=FallinTanishq&hide_border=true&background=0d1117&stroke=00f5ff&ring=bd00ff&fire=bd00ff&currStreakLabel=00f5ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FallinTanishq&layout=compact&hide_border=true&title_color=00f5ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="top langs"/>
 
 <br/>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FallinTanishq&hide_border=true&bg_color=0d1117&color=00f5ff&line=bd00ff&point=ffffff&area=true&area_color=7b2ff7" alt="activity graph"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=FallinTanishq&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 
 </div>
 

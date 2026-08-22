@@ -25,54 +25,68 @@
 <!--                          ABOUT                                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> `whoami`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:7b2ff7&height=52&text=%2F%2F%20whoami&fontColor=00f5ff&fontSize=28&fontAlign=8&fontAlignY=58" alt="whoami"/>
+
+<table>
+<tr>
+<td width="62%">
 
 ```python
 class Tanyx:
     def __init__(self):
         self.alias        = "FallinTanishq"
-        self.role         = "Telegram Bot Developer & Automation Engineer"
+        self.role         = "TG Bot Dev & Automation Engineer"
         self.language     = "Python 🐍"
         self.learning     = ["Java", "C++"]
-        self.specialty    = "self-running scraper → encoder → uploader pipelines"
+        self.specialty    = "self-running scraper "  \
+                            "→ encoder → uploader "  \
+                            "→ poster pipelines"
         self.bots_shipped = "17+ original bots"
-        self.philosophy   = "Build. Break. Learn. Repeat."
+        self.motto        = "Build. Break. Learn. Repeat."
 
     def status(self):
-        return "Probably automating something instead of doing it manually ⚡"
+        return "Automating it instead of doing it ⚡"
 ```
 
+</td>
+<td width="38%" align="center">
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="200" alt="wave"/>
+
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=BD00FF&center=true&vCenter=true&width=260&height=60&lines=%F0%9F%8E%A7+Lo-fi+%2B+night+vibes;Focus+mode%3A+activated;while(alive)+%7B+code();+%7D" alt="soundtrack"/>
+
+</td>
+</tr>
+</table>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                        TECH STACK                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> Arsenal
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:7b2ff7&height=52&text=Arsenal&fontColor=00f5ff&fontSize=28&fontAlign=8&fontAlignY=58" alt="arsenal"/>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00f5ff)
+<img src="https://skillicons.dev/icons?i=python,mongodb,git,linux,bash,docker,vscode,github&theme=dark" alt="skill icons"/>
+
+<br/><br/>
+
 ![Pyrofork](https://img.shields.io/badge/Pyrofork_/_Pyrogram-0d1117?style=for-the-badge&logo=telegram&logoColor=7b2ff7)
 ![Telegram](https://img.shields.io/badge/Telegram_Bot_API-0d1117?style=for-the-badge&logo=telegram&logoColor=bd00ff)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00f5ff)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-0d1117?style=for-the-badge&logo=ffmpeg&logoColor=7b2ff7)
-
-![aiohttp](https://img.shields.io/badge/httpx_/_aiohttp-0d1117?style=for-the-badge&logo=fastapi&logoColor=bd00ff)
-![Linux](https://img.shields.io/badge/Linux_VPS-0d1117?style=for-the-badge&logo=linux&logoColor=00f5ff)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=7b2ff7)
-![AniList](https://img.shields.io/badge/AniList_/_TMDB_/_OMDb-0d1117?style=for-the-badge&logo=anilist&logoColor=bd00ff)
-![Docker](https://img.shields.io/badge/yt--dlp_/_libtorrent-0d1117?style=for-the-badge&logo=youtube&logoColor=00f5ff)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-0d1117?style=for-the-badge&logo=ffmpeg&logoColor=00f5ff)
+![httpx](https://img.shields.io/badge/httpx_/_aiohttp-0d1117?style=for-the-badge&logo=fastapi&logoColor=7b2ff7)
+![APIs](https://img.shields.io/badge/AniList_·_TMDB_·_OMDb-0d1117?style=for-the-badge&logo=anilist&logoColor=bd00ff)
+![yt-dlp](https://img.shields.io/badge/yt--dlp_·_libtorrent-0d1117?style=for-the-badge&logo=youtube&logoColor=00f5ff)
 
 </div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       THE BOT FLEET                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/QpVUMRUJGokfqRQ7bF/giphy.gif" width="28"> The Bot Fleet
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:7b2ff7&height=52&text=The%20Bot%20Fleet&fontColor=00f5ff&fontSize=28&fontAlign=8&fontAlignY=58" alt="the bot fleet"/>
 
 > A private ecosystem of Telegram automation — scrapers, encoders, uploaders and posters
 > wired into hands-off pipelines. `nyaa RSS ─▶ encode ─▶ store ─▶ post` while I sleep.
@@ -99,13 +113,11 @@ class Tanyx:
 | **RequestAcceptor** | Auto-approves channel join requests and DMs a customizable welcome (media + URL buttons). |
 | **Infinite** | Multi-instance file-store & deep-link fleet powering the store/link layer behind the posters. |
 
-<br/>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          STATS                                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> Neural Activity
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:7b2ff7&height=52&text=Neural%20Activity&fontColor=00f5ff&fontSize=28&fontAlign=8&fontAlignY=58" alt="neural activity"/>
 
 <div align="center">
 
@@ -115,27 +127,17 @@ class Tanyx:
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FallinTanishq&hide_border=true&bg_color=0d1117&color=00f5ff&line=bd00ff&point=ffffff&area=true&area_color=7b2ff7" alt="activity graph"/>
 
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       SNAKE / CONTRIB                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
+<br/><br/>
 
 <img width="98%" src="https://raw.githubusercontent.com/FallinTanishq/FallinTanishq/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 
 </div>
 
-<br/>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          CONNECT                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Uplink
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:7b2ff7&height=52&text=Uplink&fontColor=00f5ff&fontSize=28&fontAlign=8&fontAlignY=58" alt="uplink"/>
 
 <div align="center">
 
@@ -144,11 +146,7 @@ class Tanyx:
 <a href="https://t.me/ZeroToCoding"><img src="https://img.shields.io/badge/@ZeroToCoding-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="channel"/></a>
 <a href="https://github.com/FallinTanishq"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 ### `Build. Break. Learn. Repeat.`
 
